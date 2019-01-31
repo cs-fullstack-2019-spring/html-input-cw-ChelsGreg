@@ -1,0 +1,25 @@
+body{
+    margin: 10% 25%;
+    text-align: left;
+    background-color: purple;
+    color: whitesmoke;
+}
+
+
+
+
+.inputBox{
+    width: 85%;
+    margin-bottom: 24px;
+    background-color: rgba(138, 43, 226, 0.33);
+    border: 0.5px;
+}
+
+
+.signUp{
+    color: whitesmoke;
+    width: 85%;
+    margin-bottom: 24px;
+    background-color: rgba(55, 1, 23, 0.69);
+    border: 0.5px;
+}

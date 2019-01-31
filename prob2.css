@@ -1,0 +1,64 @@
+body{
+    margin: 5% 15%;
+    text-align: center;
+}
+
+section{
+    text
+    color: black;
+    display: block;
+    border: 1px solid gray;
+    background-color: white;
+    text-align: center;
+    margin: 0 24.5% 24px 24.5%;
+    padding: 10px 5px;
+
+}
+input{
+    border: white;
+}
+
+.section1{
+    color: black
+    border: 1px solid gray;
+    background-color: grey;
+    text-align: center;
+    margin: 0 24.5% 24px 24.5%;
+    padding: 25px 15px;
+    /*float:right;*/
+
+}
+
+.section2{
+
+    border: 1px solid gray;
+    background-color: white;
+    text-align: center;
+    margin: 0 24.5% 0% 24.5%;
+    padding: 25px 15px;
+    /*float:left;*/
+
+}
+
+
+.section3 {
+    color: black;
+    display: block;
+    postion: absolute;
+    left: 20px;
+}
+
+.section4{
+    color: black;
+    display: block;
+    float: left;
+    left: 20px;
+}
+
+.section5{
+    color: black;
+    display: block;
+    float: right;
+}
+
+
